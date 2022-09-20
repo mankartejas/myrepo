@@ -1,0 +1,15 @@
+D:\VisualStudioDotNet\Batch913\ConstructorAssign\ConstructorAssign\bin\Debug\net6.0\ConstructorAssign.exe
+D:\VisualStudioDotNet\Batch913\ConstructorAssign\ConstructorAssign\bin\Debug\net6.0\ConstructorAssign.deps.json
+D:\VisualStudioDotNet\Batch913\ConstructorAssign\ConstructorAssign\bin\Debug\net6.0\ConstructorAssign.runtimeconfig.json
+D:\VisualStudioDotNet\Batch913\ConstructorAssign\ConstructorAssign\bin\Debug\net6.0\ConstructorAssign.dll
+D:\VisualStudioDotNet\Batch913\ConstructorAssign\ConstructorAssign\bin\Debug\net6.0\ConstructorAssign.pdb
+D:\VisualStudioDotNet\Batch913\ConstructorAssign\ConstructorAssign\obj\Debug\net6.0\ConstructorAssign.csproj.AssemblyReference.cache
+D:\VisualStudioDotNet\Batch913\ConstructorAssign\ConstructorAssign\obj\Debug\net6.0\ConstructorAssign.GeneratedMSBuildEditorConfig.editorconfig
+D:\VisualStudioDotNet\Batch913\ConstructorAssign\ConstructorAssign\obj\Debug\net6.0\ConstructorAssign.AssemblyInfoInputs.cache
+D:\VisualStudioDotNet\Batch913\ConstructorAssign\ConstructorAssign\obj\Debug\net6.0\ConstructorAssign.AssemblyInfo.cs
+D:\VisualStudioDotNet\Batch913\ConstructorAssign\ConstructorAssign\obj\Debug\net6.0\ConstructorAssign.csproj.CoreCompileInputs.cache
+D:\VisualStudioDotNet\Batch913\ConstructorAssign\ConstructorAssign\obj\Debug\net6.0\ConstructorAssign.dll
+D:\VisualStudioDotNet\Batch913\ConstructorAssign\ConstructorAssign\obj\Debug\net6.0\refint\ConstructorAssign.dll
+D:\VisualStudioDotNet\Batch913\ConstructorAssign\ConstructorAssign\obj\Debug\net6.0\ConstructorAssign.pdb
+D:\VisualStudioDotNet\Batch913\ConstructorAssign\ConstructorAssign\obj\Debug\net6.0\ConstructorAssign.genruntimeconfig.cache
+D:\VisualStudioDotNet\Batch913\ConstructorAssign\ConstructorAssign\obj\Debug\net6.0\ref\ConstructorAssign.dll

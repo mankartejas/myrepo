@@ -1,0 +1,15 @@
+D:\VisualStudioDotNet\Batch913\PropertiesAssign\PropertiesAssign\obj\Debug\net6.0\PropertiesAssign.csproj.AssemblyReference.cache
+D:\VisualStudioDotNet\Batch913\PropertiesAssign\PropertiesAssign\obj\Debug\net6.0\PropertiesAssign.GeneratedMSBuildEditorConfig.editorconfig
+D:\VisualStudioDotNet\Batch913\PropertiesAssign\PropertiesAssign\obj\Debug\net6.0\PropertiesAssign.AssemblyInfoInputs.cache
+D:\VisualStudioDotNet\Batch913\PropertiesAssign\PropertiesAssign\obj\Debug\net6.0\PropertiesAssign.AssemblyInfo.cs
+D:\VisualStudioDotNet\Batch913\PropertiesAssign\PropertiesAssign\obj\Debug\net6.0\PropertiesAssign.csproj.CoreCompileInputs.cache
+D:\VisualStudioDotNet\Batch913\PropertiesAssign\PropertiesAssign\bin\Debug\net6.0\PropertiesAssign.exe
+D:\VisualStudioDotNet\Batch913\PropertiesAssign\PropertiesAssign\bin\Debug\net6.0\PropertiesAssign.deps.json
+D:\VisualStudioDotNet\Batch913\PropertiesAssign\PropertiesAssign\bin\Debug\net6.0\PropertiesAssign.runtimeconfig.json
+D:\VisualStudioDotNet\Batch913\PropertiesAssign\PropertiesAssign\bin\Debug\net6.0\PropertiesAssign.dll
+D:\VisualStudioDotNet\Batch913\PropertiesAssign\PropertiesAssign\bin\Debug\net6.0\PropertiesAssign.pdb
+D:\VisualStudioDotNet\Batch913\PropertiesAssign\PropertiesAssign\obj\Debug\net6.0\PropertiesAssign.dll
+D:\VisualStudioDotNet\Batch913\PropertiesAssign\PropertiesAssign\obj\Debug\net6.0\refint\PropertiesAssign.dll
+D:\VisualStudioDotNet\Batch913\PropertiesAssign\PropertiesAssign\obj\Debug\net6.0\PropertiesAssign.pdb
+D:\VisualStudioDotNet\Batch913\PropertiesAssign\PropertiesAssign\obj\Debug\net6.0\PropertiesAssign.genruntimeconfig.cache
+D:\VisualStudioDotNet\Batch913\PropertiesAssign\PropertiesAssign\obj\Debug\net6.0\ref\PropertiesAssign.dll

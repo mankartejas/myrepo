@@ -1,0 +1,15 @@
+D:\VisualStudioDotNet\Batch913\ClassObjAssign\ClassObjAssign\bin\Debug\net6.0\ClassObjAssign.exe
+D:\VisualStudioDotNet\Batch913\ClassObjAssign\ClassObjAssign\bin\Debug\net6.0\ClassObjAssign.deps.json
+D:\VisualStudioDotNet\Batch913\ClassObjAssign\ClassObjAssign\bin\Debug\net6.0\ClassObjAssign.runtimeconfig.json
+D:\VisualStudioDotNet\Batch913\ClassObjAssign\ClassObjAssign\bin\Debug\net6.0\ClassObjAssign.dll
+D:\VisualStudioDotNet\Batch913\ClassObjAssign\ClassObjAssign\bin\Debug\net6.0\ClassObjAssign.pdb
+D:\VisualStudioDotNet\Batch913\ClassObjAssign\ClassObjAssign\obj\Debug\net6.0\ClassObjAssign.csproj.AssemblyReference.cache
+D:\VisualStudioDotNet\Batch913\ClassObjAssign\ClassObjAssign\obj\Debug\net6.0\ClassObjAssign.GeneratedMSBuildEditorConfig.editorconfig
+D:\VisualStudioDotNet\Batch913\ClassObjAssign\ClassObjAssign\obj\Debug\net6.0\ClassObjAssign.AssemblyInfoInputs.cache
+D:\VisualStudioDotNet\Batch913\ClassObjAssign\ClassObjAssign\obj\Debug\net6.0\ClassObjAssign.AssemblyInfo.cs
+D:\VisualStudioDotNet\Batch913\ClassObjAssign\ClassObjAssign\obj\Debug\net6.0\ClassObjAssign.csproj.CoreCompileInputs.cache
+D:\VisualStudioDotNet\Batch913\ClassObjAssign\ClassObjAssign\obj\Debug\net6.0\ClassObjAssign.dll
+D:\VisualStudioDotNet\Batch913\ClassObjAssign\ClassObjAssign\obj\Debug\net6.0\refint\ClassObjAssign.dll
+D:\VisualStudioDotNet\Batch913\ClassObjAssign\ClassObjAssign\obj\Debug\net6.0\ClassObjAssign.pdb
+D:\VisualStudioDotNet\Batch913\ClassObjAssign\ClassObjAssign\obj\Debug\net6.0\ClassObjAssign.genruntimeconfig.cache
+D:\VisualStudioDotNet\Batch913\ClassObjAssign\ClassObjAssign\obj\Debug\net6.0\ref\ClassObjAssign.dll

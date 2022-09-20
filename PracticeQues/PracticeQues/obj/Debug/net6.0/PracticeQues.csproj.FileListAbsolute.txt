@@ -1,0 +1,15 @@
+D:\VisualStudioDotNet\Batch913\PracticeQues\PracticeQues\bin\Debug\net6.0\PracticeQues.exe
+D:\VisualStudioDotNet\Batch913\PracticeQues\PracticeQues\bin\Debug\net6.0\PracticeQues.deps.json
+D:\VisualStudioDotNet\Batch913\PracticeQues\PracticeQues\bin\Debug\net6.0\PracticeQues.runtimeconfig.json
+D:\VisualStudioDotNet\Batch913\PracticeQues\PracticeQues\bin\Debug\net6.0\PracticeQues.dll
+D:\VisualStudioDotNet\Batch913\PracticeQues\PracticeQues\bin\Debug\net6.0\PracticeQues.pdb
+D:\VisualStudioDotNet\Batch913\PracticeQues\PracticeQues\obj\Debug\net6.0\PracticeQues.csproj.AssemblyReference.cache
+D:\VisualStudioDotNet\Batch913\PracticeQues\PracticeQues\obj\Debug\net6.0\PracticeQues.GeneratedMSBuildEditorConfig.editorconfig
+D:\VisualStudioDotNet\Batch913\PracticeQues\PracticeQues\obj\Debug\net6.0\PracticeQues.AssemblyInfoInputs.cache
+D:\VisualStudioDotNet\Batch913\PracticeQues\PracticeQues\obj\Debug\net6.0\PracticeQues.AssemblyInfo.cs
+D:\VisualStudioDotNet\Batch913\PracticeQues\PracticeQues\obj\Debug\net6.0\PracticeQues.csproj.CoreCompileInputs.cache
+D:\VisualStudioDotNet\Batch913\PracticeQues\PracticeQues\obj\Debug\net6.0\PracticeQues.dll
+D:\VisualStudioDotNet\Batch913\PracticeQues\PracticeQues\obj\Debug\net6.0\refint\PracticeQues.dll
+D:\VisualStudioDotNet\Batch913\PracticeQues\PracticeQues\obj\Debug\net6.0\PracticeQues.pdb
+D:\VisualStudioDotNet\Batch913\PracticeQues\PracticeQues\obj\Debug\net6.0\PracticeQues.genruntimeconfig.cache
+D:\VisualStudioDotNet\Batch913\PracticeQues\PracticeQues\obj\Debug\net6.0\ref\PracticeQues.dll

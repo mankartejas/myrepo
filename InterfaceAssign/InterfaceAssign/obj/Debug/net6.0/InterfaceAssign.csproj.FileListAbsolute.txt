@@ -1,0 +1,15 @@
+D:\VisualStudioDotNet\Batch913\InterfaceAssign\InterfaceAssign\obj\Debug\net6.0\InterfaceAssign.csproj.AssemblyReference.cache
+D:\VisualStudioDotNet\Batch913\InterfaceAssign\InterfaceAssign\obj\Debug\net6.0\InterfaceAssign.GeneratedMSBuildEditorConfig.editorconfig
+D:\VisualStudioDotNet\Batch913\InterfaceAssign\InterfaceAssign\obj\Debug\net6.0\InterfaceAssign.AssemblyInfoInputs.cache
+D:\VisualStudioDotNet\Batch913\InterfaceAssign\InterfaceAssign\obj\Debug\net6.0\InterfaceAssign.AssemblyInfo.cs
+D:\VisualStudioDotNet\Batch913\InterfaceAssign\InterfaceAssign\obj\Debug\net6.0\InterfaceAssign.csproj.CoreCompileInputs.cache
+D:\VisualStudioDotNet\Batch913\InterfaceAssign\InterfaceAssign\bin\Debug\net6.0\InterfaceAssign.exe
+D:\VisualStudioDotNet\Batch913\InterfaceAssign\InterfaceAssign\bin\Debug\net6.0\InterfaceAssign.deps.json
+D:\VisualStudioDotNet\Batch913\InterfaceAssign\InterfaceAssign\bin\Debug\net6.0\InterfaceAssign.runtimeconfig.json
+D:\VisualStudioDotNet\Batch913\InterfaceAssign\InterfaceAssign\bin\Debug\net6.0\InterfaceAssign.dll
+D:\VisualStudioDotNet\Batch913\InterfaceAssign\InterfaceAssign\bin\Debug\net6.0\InterfaceAssign.pdb
+D:\VisualStudioDotNet\Batch913\InterfaceAssign\InterfaceAssign\obj\Debug\net6.0\InterfaceAssign.dll
+D:\VisualStudioDotNet\Batch913\InterfaceAssign\InterfaceAssign\obj\Debug\net6.0\refint\InterfaceAssign.dll
+D:\VisualStudioDotNet\Batch913\InterfaceAssign\InterfaceAssign\obj\Debug\net6.0\InterfaceAssign.pdb
+D:\VisualStudioDotNet\Batch913\InterfaceAssign\InterfaceAssign\obj\Debug\net6.0\InterfaceAssign.genruntimeconfig.cache
+D:\VisualStudioDotNet\Batch913\InterfaceAssign\InterfaceAssign\obj\Debug\net6.0\ref\InterfaceAssign.dll

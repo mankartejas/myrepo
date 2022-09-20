@@ -1,0 +1,15 @@
+D:\VisualStudioDotNet\Batch913\CollectionAssign\GenericCollectionAssign\bin\Debug\net6.0\GenericCollectionAssign.exe
+D:\VisualStudioDotNet\Batch913\CollectionAssign\GenericCollectionAssign\bin\Debug\net6.0\GenericCollectionAssign.deps.json
+D:\VisualStudioDotNet\Batch913\CollectionAssign\GenericCollectionAssign\bin\Debug\net6.0\GenericCollectionAssign.runtimeconfig.json
+D:\VisualStudioDotNet\Batch913\CollectionAssign\GenericCollectionAssign\bin\Debug\net6.0\GenericCollectionAssign.dll
+D:\VisualStudioDotNet\Batch913\CollectionAssign\GenericCollectionAssign\bin\Debug\net6.0\GenericCollectionAssign.pdb
+D:\VisualStudioDotNet\Batch913\CollectionAssign\GenericCollectionAssign\obj\Debug\net6.0\GenericCollectionAssign.csproj.AssemblyReference.cache
+D:\VisualStudioDotNet\Batch913\CollectionAssign\GenericCollectionAssign\obj\Debug\net6.0\GenericCollectionAssign.GeneratedMSBuildEditorConfig.editorconfig
+D:\VisualStudioDotNet\Batch913\CollectionAssign\GenericCollectionAssign\obj\Debug\net6.0\GenericCollectionAssign.AssemblyInfoInputs.cache
+D:\VisualStudioDotNet\Batch913\CollectionAssign\GenericCollectionAssign\obj\Debug\net6.0\GenericCollectionAssign.AssemblyInfo.cs
+D:\VisualStudioDotNet\Batch913\CollectionAssign\GenericCollectionAssign\obj\Debug\net6.0\GenericCollectionAssign.csproj.CoreCompileInputs.cache
+D:\VisualStudioDotNet\Batch913\CollectionAssign\GenericCollectionAssign\obj\Debug\net6.0\GenericCollectionAssign.dll
+D:\VisualStudioDotNet\Batch913\CollectionAssign\GenericCollectionAssign\obj\Debug\net6.0\refint\GenericCollectionAssign.dll
+D:\VisualStudioDotNet\Batch913\CollectionAssign\GenericCollectionAssign\obj\Debug\net6.0\GenericCollectionAssign.pdb
+D:\VisualStudioDotNet\Batch913\CollectionAssign\GenericCollectionAssign\obj\Debug\net6.0\GenericCollectionAssign.genruntimeconfig.cache
+D:\VisualStudioDotNet\Batch913\CollectionAssign\GenericCollectionAssign\obj\Debug\net6.0\ref\GenericCollectionAssign.dll

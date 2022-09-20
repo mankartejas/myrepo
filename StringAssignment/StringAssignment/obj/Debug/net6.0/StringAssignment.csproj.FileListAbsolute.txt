@@ -1,0 +1,15 @@
+D:\VisualStudioDotNet\Batch913\StringAssignment\StringAssignment\obj\Debug\net6.0\StringAssignment.csproj.AssemblyReference.cache
+D:\VisualStudioDotNet\Batch913\StringAssignment\StringAssignment\obj\Debug\net6.0\StringAssignment.GeneratedMSBuildEditorConfig.editorconfig
+D:\VisualStudioDotNet\Batch913\StringAssignment\StringAssignment\obj\Debug\net6.0\StringAssignment.AssemblyInfoInputs.cache
+D:\VisualStudioDotNet\Batch913\StringAssignment\StringAssignment\obj\Debug\net6.0\StringAssignment.AssemblyInfo.cs
+D:\VisualStudioDotNet\Batch913\StringAssignment\StringAssignment\obj\Debug\net6.0\StringAssignment.csproj.CoreCompileInputs.cache
+D:\VisualStudioDotNet\Batch913\StringAssignment\StringAssignment\bin\Debug\net6.0\StringAssignment.exe
+D:\VisualStudioDotNet\Batch913\StringAssignment\StringAssignment\bin\Debug\net6.0\StringAssignment.deps.json
+D:\VisualStudioDotNet\Batch913\StringAssignment\StringAssignment\bin\Debug\net6.0\StringAssignment.runtimeconfig.json
+D:\VisualStudioDotNet\Batch913\StringAssignment\StringAssignment\bin\Debug\net6.0\StringAssignment.dll
+D:\VisualStudioDotNet\Batch913\StringAssignment\StringAssignment\bin\Debug\net6.0\StringAssignment.pdb
+D:\VisualStudioDotNet\Batch913\StringAssignment\StringAssignment\obj\Debug\net6.0\StringAssignment.dll
+D:\VisualStudioDotNet\Batch913\StringAssignment\StringAssignment\obj\Debug\net6.0\refint\StringAssignment.dll
+D:\VisualStudioDotNet\Batch913\StringAssignment\StringAssignment\obj\Debug\net6.0\StringAssignment.pdb
+D:\VisualStudioDotNet\Batch913\StringAssignment\StringAssignment\obj\Debug\net6.0\StringAssignment.genruntimeconfig.cache
+D:\VisualStudioDotNet\Batch913\StringAssignment\StringAssignment\obj\Debug\net6.0\ref\StringAssignment.dll

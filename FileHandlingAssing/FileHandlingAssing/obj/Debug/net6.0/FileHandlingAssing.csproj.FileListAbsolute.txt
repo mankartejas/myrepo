@@ -1,0 +1,15 @@
+D:\VisualStudioDotNet\Batch913\FileHandlingAssing\FileHandlingAssing\obj\Debug\net6.0\FileHandlingAssing.csproj.AssemblyReference.cache
+D:\VisualStudioDotNet\Batch913\FileHandlingAssing\FileHandlingAssing\obj\Debug\net6.0\FileHandlingAssing.GeneratedMSBuildEditorConfig.editorconfig
+D:\VisualStudioDotNet\Batch913\FileHandlingAssing\FileHandlingAssing\obj\Debug\net6.0\FileHandlingAssing.AssemblyInfoInputs.cache
+D:\VisualStudioDotNet\Batch913\FileHandlingAssing\FileHandlingAssing\obj\Debug\net6.0\FileHandlingAssing.AssemblyInfo.cs
+D:\VisualStudioDotNet\Batch913\FileHandlingAssing\FileHandlingAssing\obj\Debug\net6.0\FileHandlingAssing.csproj.CoreCompileInputs.cache
+D:\VisualStudioDotNet\Batch913\FileHandlingAssing\FileHandlingAssing\bin\Debug\net6.0\FileHandlingAssing.exe
+D:\VisualStudioDotNet\Batch913\FileHandlingAssing\FileHandlingAssing\bin\Debug\net6.0\FileHandlingAssing.deps.json
+D:\VisualStudioDotNet\Batch913\FileHandlingAssing\FileHandlingAssing\bin\Debug\net6.0\FileHandlingAssing.runtimeconfig.json
+D:\VisualStudioDotNet\Batch913\FileHandlingAssing\FileHandlingAssing\bin\Debug\net6.0\FileHandlingAssing.dll
+D:\VisualStudioDotNet\Batch913\FileHandlingAssing\FileHandlingAssing\bin\Debug\net6.0\FileHandlingAssing.pdb
+D:\VisualStudioDotNet\Batch913\FileHandlingAssing\FileHandlingAssing\obj\Debug\net6.0\FileHandlingAssing.dll
+D:\VisualStudioDotNet\Batch913\FileHandlingAssing\FileHandlingAssing\obj\Debug\net6.0\refint\FileHandlingAssing.dll
+D:\VisualStudioDotNet\Batch913\FileHandlingAssing\FileHandlingAssing\obj\Debug\net6.0\FileHandlingAssing.pdb
+D:\VisualStudioDotNet\Batch913\FileHandlingAssing\FileHandlingAssing\obj\Debug\net6.0\FileHandlingAssing.genruntimeconfig.cache
+D:\VisualStudioDotNet\Batch913\FileHandlingAssing\FileHandlingAssing\obj\Debug\net6.0\ref\FileHandlingAssing.dll
